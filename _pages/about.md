@@ -26,9 +26,9 @@ latest_posts:
 ---
 
 
-I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau. [Bian He](https://labesm-staff.iap.ac.cn/heb/) is my advisor who is an expert in earth system model and climate dynamics.
+I am a PhD candidate studying in [Institude of Atmospheric Physics, Chinese Academy of Sciences](https://iap.cas.cn/). Now I am insteresting in the water cycle over Tibetan Plateau. [Bian He](https://labesm-staff.iap.ac.cn/heb/) is my advisor who is an expert in earth system model and climate dynamics.
 
-! Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+!Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 ! Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
