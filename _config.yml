@@ -86,7 +86,7 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 # 402行-403行改为true。
 google_site_verification: 4C51Y3IgNjdsgVAAhqdMr7A43Q2VgN5C5DuFqI71rdI # your google-site-verification ID (Google Search Console)
-bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
+bing_site_verification: 511B959F85005192003CC42E72DF2834 # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
